@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="82" started-at="2022-01-21T15:13:15 IST" finished-at="2022-01-21T15:13:16 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="82" started-at="2022-01-21T15:13:15 IST" finished-at="2022-01-21T15:13:16 IST">
+      <class name="RajeshNare.MavenforTry.TestDemo01">
+        <test-method status="PASS" signature="printing()[pri:0, instance:RajeshNare.MavenforTry.TestDemo01@6c49835d]" name="printing" duration-ms="10" started-at="2022-01-21T15:13:16 IST" finished-at="2022-01-21T15:13:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printing -->
+      </class> <!-- RajeshNare.MavenforTry.TestDemo01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
